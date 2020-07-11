@@ -64,6 +64,8 @@ var KsForm = React.createClass(
             Distilled Water
             </input>
             <br/>
+                
+            <button type="submit"> OK! plz send it out. </button>
         </form>
     }
 
