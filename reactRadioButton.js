@@ -21,7 +21,7 @@ var KsForm = React.createClass({
 
         this.setState(
 
-            radioButton: event.target.value
+            {radioButton: event.target.value}
 
         );
 
