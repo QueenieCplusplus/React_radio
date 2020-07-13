@@ -7,7 +7,7 @@
 
 var React = require("react");
 
-var KsForm = React.createClass(
+var KsForm = React.createClass({
 
     getInitialState: function(){
 
@@ -69,4 +69,4 @@ var KsForm = React.createClass(
         </form>
     }
 
-);
+});
